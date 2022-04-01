@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "lab7", "..\..\..\OneDrive\Documents\SCHOOL\Ontario Tech\Year 3\Web\Labs\lab7\", "{D59667DD-4490-4DB4-999E-4A87927C7DAE}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_14300"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Documents\SCHOOL\Ontario Tech\Year 3\Web\Labs\lab7\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_14300\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_14300"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\OneDrive\Documents\SCHOOL\Ontario Tech\Year 3\Web\Labs\lab7\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_14300\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "14300"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D59667DD-4490-4DB4-999E-4A87927C7DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59667DD-4490-4DB4-999E-4A87927C7DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7B88BF5-38EA-4061-A1A9-A60ECF46656C}
+	EndGlobalSection
+EndGlobal
